@@ -1,4 +1,4 @@
-# M3-Silent-Auction
+# Silent-Auction
 
 The goal to recreate the silent auction website for M3 using a custom landing page, forms, and tables for 
 parents fill out.  At the same time, parents want to track their bids using the data stored in the forms in 
